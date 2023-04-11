@@ -1,2 +1,0 @@
-version 1 del archivo hola
-version 2 archivo
